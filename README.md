@@ -10,7 +10,9 @@
     للحين الاداه في اصداراتها الاوله ف لاتعتمد عليها كل الاعتماد ! 
     The tool in the first version does not depend on it !
     تشتغل على ويندوز 10 فقط
-    Work on Windows 10 only
+    Work on Windows 10 onlyc
+حمل متصفح Tor من [هنا](https://tor.ar.uptodown.com/windows)  و ضيفه في مجلد الاداه  
+Download the TOR browser from [here](https://tor.ar.uptodown.com/windows) and put it in a tool folder
 
 لمشاهدة شرح [الاداه](https://youtu.be/Fd62DOQr6Qw)
 
