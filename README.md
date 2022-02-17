@@ -9,7 +9,14 @@
 
     للحين الاداه في اصداراتها الاوله ف لاتعتمد عليها كل الاعتماد ! 
     The tool in the first version does not depend on it !
+    تشتغل على ويندوز 10 فقط
+    Work on Windows 10 only
 
 لمشاهدة شرح [الاداه](https://youtu.be/Fd62DOQr6Qw)
 
 To see the explanation of the [tool](https://youtu.be/Fd62DOQr6Qw)
+
+twitter : [@DeViLHaCkEr110](https://twitter.com/DeViLHaCkEr110)
+snapchat : [zxmod20](https://www.snapchat.com/add/zxmod20)
+
+![the end](https://acegif.com/wp-content/gifs/the-end-6.gif)
